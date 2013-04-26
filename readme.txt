@@ -1,11 +1,11 @@
-ONZFix
-=======
+* Welcome
+Thanks for downloading ONZFIX - Otaku No Zoku Gameboy ROM Fixer Tool
 
-Thanks for your interest in ONZFIX - Otaku No Zoku Gameboy ROM Fixer Tool. This project is now hosted at https://bitbucket.org/JustinLloyd/onzfix
+Visit https://bitbucket.org/JustinLloyd/onzfix/overview for 
+more information and to download the latest version.
 
 
-License
-=======
+* License
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -20,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-=====
+* About
 A command-line utility useful to game developers working with the Nintendo 
 Gameboy and Gameboy Color consoles. This utility is used to dump ROM header 
 information to tell you the type of ROM it is, and to modify some of the 
@@ -33,16 +32,13 @@ getting on to be ~15 years old as of today (October, 2012). I am releasing it
 here for historical reasons.
 
     
-Pre-requisites
-==============
+* Pre-requisites
 1. Java compiler of some description
 
-Using ONZFIX
-============
+* Using ONZFIX
 1. You're on your own - read the code, fiddle around a bit.
 
-Support
-=======
+* Support
 Absolutely none provided.
 
 
